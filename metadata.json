@@ -1,0 +1,6 @@
+{
+  "name": "BensinKu",
+  "description": "Aplikasi pencatatan pengisian bahan bakar, rekapan akhir bulan, statistik konsumsi per kilometer, serta grafik tren pengeluaran bulanan dan biaya rata-rata per hari.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
