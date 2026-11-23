@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "app.vercel.bensin_ku.twa",
+        "sha256_cert_fingerprints": ["2E:FD:D9:48:7A:9C:30:F3:81:1E:1D:A5:97:2A:37:F6:B9:35:B3:69:58:52:C5:47:98:6E:D1:4F:C4:E8:95:CF"]
+      }
+    }]
